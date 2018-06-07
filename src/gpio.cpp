@@ -7,7 +7,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <ctype.h>
-#include <libftdi1/ftdi.h>
+#include <ftdi.h>
 #include <libusb.h>
 #include <time.h>
 

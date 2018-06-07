@@ -1,6 +1,3 @@
-SOURCEDIR  = './src/'
-BULDDIR    = './build/'
-INCLUDEDIR = './include/'
 LIBOPTS = '-llipmpsse -llibftdi -llibpixyusb'
 
 CC = 'g++'
